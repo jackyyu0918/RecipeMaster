@@ -89,13 +89,13 @@
 			path = Coredata;
 			sourceTree = "<group>";
 		};
-		5A9E195E238B4A480061AD28 /* New Group */ = {
+		5A9E195E238B4A480061AD28 /* Storyboard */ = {
 			isa = PBXGroup;
 			children = (
 				5A9E195A238B498F0061AD28 /* LaunchScreen.storyboard */,
 				5A9E195B238B498F0061AD28 /* Main.storyboard */,
 			);
-			path = "New Group";
+			path = Storyboard;
 			sourceTree = "<group>";
 		};
 		5AE45CA9237FF2F4003D451F = {
@@ -118,7 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				5AE45CCD237FF331003D451F /* Model */,
-				5A9E195E238B4A480061AD28 /* New Group */,
+				5A9E195E238B4A480061AD28 /* Storyboard */,
 				5AE45CCE237FF341003D451F /* Controller */,
 				5AE45CC1237FF2F5003D451F /* Assets.xcassets */,
 				5AE45CC6237FF2F5003D451F /* Info.plist */,
