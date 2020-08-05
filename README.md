@@ -1,6 +1,8 @@
 # iOS_RecipeMaster
 Awesome application for user to search recipes and nutrition.
 
+The application is implemented in Model-View-Controller model.
+
 ## Application Demonstration
 https://www.youtube.com/watch?v=p8Vr1FpS25g
 
