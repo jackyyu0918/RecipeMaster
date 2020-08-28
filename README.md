@@ -1,7 +1,7 @@
 # iOS_RecipeMaster
-Awesome application for user to search recipes and nutrition.
+Recipe Master is an awesome application for user to search recipes and nutrition.
 
-The application is implemented in Model-View-Controller model.
+The application is written in Swift 5 and implemented in Model-View-Controller model.
 
 # ScreenShot
 
