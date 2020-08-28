@@ -13,7 +13,7 @@ The application is implemented in Model-View-Controller model.
 
 ![2](https://user-images.githubusercontent.com/51431760/89143031-bf930b00-d57b-11ea-9634-c3cb8a5b4014.png)
 
-## Seaching Page
+## Searching Page
 
 ![3](https://user-images.githubusercontent.com/51431760/89143016-ba35c080-d57b-11ea-888c-2d0960d0b23d.png)
 
