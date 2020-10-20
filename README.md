@@ -3,6 +3,14 @@ Recipe Master is an awesome application for user to search recipes and nutrition
 
 The application is written in Swift 5 and implemented in Model-View-Controller model.
 
+<br><br>
+
+![](https://s3.amazonaws.com/mashape-production-logos/apis/55bd6288e4b0bb11a1db6a3d_medium)
+
+Spoonacular Food API is used for receiving food information.
+
+Official website of Spoonacular: https://spoonacular.com/food-api
+
 # ScreenShot
 
 ## Launch Screen
